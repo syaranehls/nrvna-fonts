@@ -1,23 +1,7 @@
-/**
- * @license
- * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
- * 
- * The fonts listed in this notice are subject to the End User License
- * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed Webfonts(s).
- * 
- * You may obtain a valid license at the URLs below.
- * 
- * Webfont: Benzin Regular by Supremat
- * URL: https://www.myfonts.com/collections/supremat-foundry
- 
- * © 2026 MyFonts Inc. */
-
-
-  
 @font-face {
   font-family: "BenzinRegular";
- src: url('font.woff2') format('woff2'),
-     url('font.woff') format('woff');
+  src: url('font.woff2') format('woff2'),
+       url('font.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
-
