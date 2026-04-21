@@ -17,6 +17,7 @@
   
 @font-face {
   font-family: "BenzinRegular";
-  src: url('webFonts/BenzinRegular/font.woff2') format('woff2'), url('webFonts/BenzinRegular/font.woff') format('woff');
+  src: url('font.woff2') format('woff2'),
+     url('font.woff') format('woff');
 }
 
